@@ -24,7 +24,7 @@
 	url = https://github.com/iaac-maai/AAD_Research_Studio_03.git
 [submodule "projects/Fit_Well"]
 	path = projects/Fit_Well
-	url = https://github.com/ugomegwa/Fit-Well-Research-Studio-Group-8.git
+	url = https://github.com/iaac-maai/Fit-Well-Research-Studio-Group-8.git
 [submodule "projects/RightFit"]
 	path = projects/RightFit
 	url = https://github.com/iaac-maai/RightFit.git
