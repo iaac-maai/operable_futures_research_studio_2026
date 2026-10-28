@@ -1,0 +1,30 @@
+[submodule "projects/Roofscapes_ReImagined"]
+	path = projects/Roofscapes_ReImagined
+	url = https://github.com/iaac-maai/research_studio_team_1.git
+[submodule "projects/PMI"]
+	path = projects/PMI
+	url = https://github.com/iaac-maai/PMI.git
+[submodule "projects/Sentra"]
+	path = projects/Sentra
+	url = https://github.com/iaac-maai/research_studio_team_4.git
+[submodule "projects/ULLADA"]
+	path = projects/ULLADA
+	url = https://github.com/iaac-maai/5_azulejos_smart_construction.git
+[submodule "projects/SeconD_Look"]
+	path = projects/SeconD_Look
+	url = https://github.com/iaac-maai/operable_futures_research_studio_2026_Team_Jerome_Luis.git
+[submodule "projects/Nomad"]
+	path = projects/Nomad
+	url = https://github.com/iaac-maai/nomad.git
+[submodule "projects/SpecSynth_AI"]
+	path = projects/SpecSynth_AI
+	url = https://github.com/iaac-maai/research_studio_team_9.git
+[submodule "projects/Concrete_Evidence_AI"]
+	path = projects/Concrete_Evidence_AI
+	url = https://github.com/iaac-maai/AAD_Research_Studio_03.git
+[submodule "projects/Fit_Well"]
+	path = projects/Fit_Well
+	url = https://github.com/ugomegwa/Fit-Well-Research-Studio-Group-8.git
+[submodule "projects/RightFit"]
+	path = projects/RightFit
+	url = https://github.com/iaac-maai/RightFit.git
