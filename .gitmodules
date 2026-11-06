@@ -1,17 +1,17 @@
 [submodule "projects/Roofscapes_ReImagined"]
-	path = projects/Roofscapes_ReImagined
+	path = projects/rooftops_repowered
 	url = https://github.com/iaac-maai/research_studio_team_1.git
 [submodule "projects/PMI"]
 	path = projects/PMI
 	url = https://github.com/iaac-maai/PMI.git
 [submodule "projects/Sentra"]
-	path = projects/Sentra
+	path = projects/cobuild
 	url = https://github.com/iaac-maai/research_studio_team_4.git
 [submodule "projects/ULLADA"]
-	path = projects/ULLADA
+	path = projects/azulejos
 	url = https://github.com/iaac-maai/5_azulejos_smart_construction.git
 [submodule "projects/SeconD_Look"]
-	path = projects/SeconD_Look
+	path = projects/secondlook
 	url = https://github.com/iaac-maai/operable_futures_research_studio_2026_Team_Jerome_Luis.git
 [submodule "projects/Nomad"]
 	path = projects/Nomad
