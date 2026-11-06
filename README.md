@@ -51,7 +51,7 @@ Each team anchors its problem in one stage of an AEC project:
 | 5 | **Azulejos:** gesture and voice to tile design. Uses hand tracking and voice to frame a tile and sketch its symmetric pattern in the air, then draws it in Rhino at real size with its pre-firing clay outline. | Bo De Roeck, Sneha Sachin Shenoy, Sanjana Kiran | Design & Pre-Construction | [`projects/azulejos`](projects/azulejos) |
 | 6 | **Second Look:** an early warning check for homes nobody inspects. Measures and classifies a photographed crack, applies auditable rules and decides whether an engineer must look next. | Jerome Eid, Luis Wulf | Operation & End-of-Life | [`projects/secondlook`](projects/secondlook) |
 | 7 | **Nomad:** let's find you a home. Checks an IFC model of a vacant building against CTE, Catalan and Barcelona rules for conversion to housing, and proposes ranked fixes. | Bars Babila, Bhavini Manot, Álvaro Miñé | Design & Pre-Construction | [`projects/Nomad`](projects/Nomad) |
-| 8 | **Fit-Well:** fit material, fit space. Turns a client's references and brief into project parameters and returns an honest cost range backed by comparable built projects. | Hetashri Kalyani, Ugochinyere Megwa, Samiha Abeda Nur | Design & Pre-Construction | [`projects/Fit_Well`](projects/Fit_Well) |
+| 8 | **Fitwell AI:** material identification for architecture and interior design. A browser-based camera suggests provisional material labels for sampled image regions, supported by research datasets and a preliminary segmentation-training pipeline. | Hetashri Kalyani, Ugochinyere Megwa, Samiha Abeda Nur | Design & Pre-Construction | [`projects/Fit_Well`](projects/Fit_Well) |
 | 9 | **SpecSynth AI:** stop non-compliant products reaching the spec. Extracts manufacturer data into material schedules, validates it against project requirements and links every value to its evidence. | Fawad Saleem, Soumyajyoti Datta, Kazuko Nakao | Procurement & Off-Site Manufacturing | [`projects/SpecSynth_AI`](projects/SpecSynth_AI) |
 | 10 | **Right Fit:** material approval, rethought. Checks material approval forms and data sheets against the specification, BOQ, codes and past reviewer comments, and suggests products that fit. | Jeff El Khoury, Sahil Mansoor Khan, Luca Obejdeanu | Procurement & Off-Site Manufacturing | [`projects/RightFit`](projects/RightFit) |
 
@@ -188,7 +188,9 @@ By the end of the course, students will be able to:
 ## Faculty
 
 - [**Rasha Sukkarieh**](https://www.linkedin.com/in/rasha-sukkarieh-649a5538/) — Faculty. Architect and R&D Manager of the Robotics Lab at IAAC, leading research in circularity and digital construction. Brings the industry perspective and entrepreneurial mindset to the studio.
+
 - [**Nacho Monereo**](https://www.linkedin.com/in/nacho-monereo/) — Faculty. Architect, computational designer and robotics expert working at the convergence of AI, robotic fabrication and computational construction. Leads the technical dimension of the studio. [nachomonereo.com](https://nachomonereo.com)
+
 - [**Salvador Cantuarias**](https://www.linkedin.com/in/salvador-cantuarias/) — Faculty Assistant. Architect and AI engineer working on rule-based database architecture, ontology engineering, automated reasoning and knowledge retrieval.
 
 ## References
